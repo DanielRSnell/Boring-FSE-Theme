@@ -1,0 +1,16 @@
+{
+    "name": "danielsnell/generatepress_child",
+    "require": {
+        "scssphp/scssphp": "^1.13"
+    },
+    "autoload": {
+        "psr-4": {
+            "Danielsnell\\GeneratepressChild\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "artisan"
+        }
+    ]
+}
